@@ -1,0 +1,4 @@
+{
+  "svelte.enable-ts-plugin": true,
+  "commentTranslate.source": "renping.deepseek-comment-translate-deepseek"
+}
